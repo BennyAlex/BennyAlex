@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Have a look at my website](bennyalex.github.io)
+[Have a look at my website](https://bennyalex.github.io/)
 <!--
 **BennyAlex/BennyAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
